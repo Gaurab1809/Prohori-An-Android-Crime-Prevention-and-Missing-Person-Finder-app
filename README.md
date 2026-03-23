@@ -123,4 +123,3 @@ Although there is scope for further development, the application serves as a str
 
 ## ⭐ Support
 If you like this project, consider giving it a ⭐ on GitHub!
->>>>>>> 0e4d0adae2983374ad6cb0929542b79debe99c63
