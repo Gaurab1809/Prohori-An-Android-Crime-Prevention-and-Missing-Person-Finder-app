@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="Prohori_Logo.png" alt="Prohori Logo" width="600"/>
+  <img src="Prohori_Logo.png" alt="Prohori Logo" width="500"/>
 </p>
 
 <!-- Title Banner -->
